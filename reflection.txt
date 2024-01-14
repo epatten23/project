@@ -1,0 +1,22 @@
+Please respond thoroughly (at least two sentences for each question) to
+the following three questions.
+
+1. Describe an experience you had this semester where you saw the power of
+functions.
+I have learned how to code with functions before, but this class really showed the importance of using functions and how it makes coding
+larger and more intricate projects a lot easier. I think the first time it really hit me the importance and simplicity of functions was week
+3 when we created random sentences. A couple years ago I tried to create a madlibs that would fill when the program ran. It took a lot
+more lines of code than it should've, because I didn't understand how to use functions. Looking back on this experience, I see the value
+in constantly using functions because of their versitility and effective nature.
+
+2. In your judgment, what is the value of test functions?
+I'm definetly more of a trial and error kinda person, so learning about test functions and test programs was hard for me to get used to, but
+now that I understand that they're used for larger projects to make sure they don't fail, it makes more sense. In my judgement, test functions
+are useful for projects which are to be implemented on a larger scale. Having this test ensures that the project will not fail before it goes
+out for final testing. It is able to test a single function rather than the whole program to help identify the source of the problem.
+
+3. Describe your process for troubleshooting and fixing a program that
+has a problem. What is one thing you can do to improve your process?
+Usually I don't realize my code has a bug until I run it at the very end. I could improve this by adding in test funcitons before I run my
+final code. I could also utilize the debugging feature more than I have been. It's super helpful to identify exactly where the code is messing 
+up, but I tend to just run it all and debug line by line rather than utilizing the debug function to identify it for me. 

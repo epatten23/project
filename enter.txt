@@ -1,0 +1,12 @@
+The number of hours that you worked on this project. You should have worked at least six hours during this week
+7
+A list of the documentation that you read, the videos that you watched, and the coding experiments that you tried.
+I did a lot of experimenting with try/except, while, and if statements. I was trying to figure out what would best work for my program to loop
+when the user didn't enter a correct value. I ended up using a couple different techniques but did a lot of research on different platforms to 
+see which statement would work best for each situation. I think this was mostly where all my research time was spent I already had the prior knowledge
+for everything else I worked on this week. 
+A description or list of the work that you finished on your program.
+I finished my testing program which includes 4 of my functions from my main programming file. I finished my main function so it pulls most
+weather information from the dictionary and returns it in a organized way from what the user enters. I finshed all my smaller functions and 
+found ways to simplify my larger functions with the smaller ones. I found a way to check what the user has entered and if it's acceptable and 
+to loop through my code so it continues prompting the user for a correct answer until they give one using try/except and while statements. 
